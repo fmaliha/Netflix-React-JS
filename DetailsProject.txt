@@ -1,0 +1,7 @@
+in the terminal --
+(packages)
+npm i react-youtube
+npm i movie-trailer
+
+for SCSS and carousl
+npm i node-sass

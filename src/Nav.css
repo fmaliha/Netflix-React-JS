@@ -1,0 +1,43 @@
+.nav {
+  position: fixed;
+  /* top: 10px; */
+  width: 100%;
+  /* padding: 20px; */
+
+  /* black background of nav */
+  height: 42px;
+
+  /* //makes it always at the top */
+  z-index: 1;
+
+  /* nav black shade */
+  background-image: linear-gradient(
+    0deg,
+    transparent,
+    rgba(37, 37, 37, 0.61),
+    #111
+  );
+  /* Animations */
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+}
+
+.nav_black {
+  background-color: #111;
+}
+
+.nav_logo {
+  position: fixed;
+  top: 0px;
+  left: 35px;
+  width: 74px;
+  object-fit: contain;
+}
+
+.nav_avatar {
+  position: fixed;
+  top: 8px;
+  right: 20px;
+  width: 34px;
+  object-fit: contain;
+}
