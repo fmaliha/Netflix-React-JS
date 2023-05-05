@@ -6,10 +6,10 @@ Project Live at : https://netflix-clone-8630e.web.app/
 Available movie, series on netflix.
 Watch Trailer.
 ### Used Technology:
-  React JS
-  TMDB API
-  Google Firebase
-  React – YouTube Component
+  React JS,
+  TMDB API,
+  Google Firebase,
+  React – YouTube Component,
   Movie-Trailer Component
 
 ### My Role
